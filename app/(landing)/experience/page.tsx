@@ -263,12 +263,13 @@ export default function ExperiencePage() {
                       <div className="flex flex-col sm:flex-row sm:items-center gap-2">
                         <h4 className="text-xl font-bold">Master of Laws (LLM) in Financial Regulation</h4>
                         <span className="hidden sm:inline text-muted-foreground">•</span>
-                        <p className="text-sm font-medium text-primary">2015 - 2016</p>
+                        <p className="text-sm font-medium text-primary">2020 - 2020</p>
                       </div>
-                      <p className="text-base font-medium">London School of Economics</p>
+                      <p className="text-base font-medium">
+                        The Fletcher School at Tufts University
+                      </p>
                       <p className="text-muted-foreground">
-                        Specialized in financial regulation with focus on emerging markets and fintech regulatory
-                        frameworks.
+                      Professional Certificate offered by the Digital Frontiers Institute in partnership with Tufts University
                       </p>
                     </div>
                   </div>
@@ -284,11 +285,13 @@ export default function ExperiencePage() {
                       <div className="flex flex-col sm:flex-row sm:items-center gap-2">
                         <h4 className="text-xl font-bold">Bachelor of Laws (LLB)</h4>
                         <span className="hidden sm:inline text-muted-foreground">•</span>
-                        <p className="text-sm font-medium text-primary">2010 - 2014</p>
+                        <p className="text-sm font-medium text-primary">2003 - 2009</p>
                       </div>
-                      <p className="text-base font-medium">University of Lagos</p>
+                      <p className="text-base font-medium">
+                        Obafemi Awolowo University
+                      </p>
                       <p className="text-muted-foreground">
-                        First Class Honours, with specialization in corporate and commercial law.
+                        with specialization in corporate, Banking, Finance and Securities law.
                       </p>
                     </div>
                   </div>
@@ -336,27 +339,6 @@ export default function ExperiencePage() {
                       <p className="text-base font-medium">CFA Institute</p>
                       <p className="text-muted-foreground">
                         Advanced knowledge in investment analysis, portfolio management, and financial ethics.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-
-                <div className="group relative overflow-hidden rounded-2xl bg-background p-6 shadow-md transition-all hover:shadow-lg">
-                  <div className="absolute inset-0 bg-gradient-to-br from-primary/5 to-primary/0 opacity-0 transition-opacity group-hover:opacity-100" />
-                  <div className="relative flex gap-4">
-                    <div className="flex h-12 w-12 shrink-0 items-center justify-center rounded-full bg-primary/10 text-primary">
-                      <BookOpen className="h-6 w-6" />
-                    </div>
-                    <div className="space-y-2">
-                      <div className="flex flex-col sm:flex-row sm:items-center gap-2">
-                        <h4 className="text-xl font-bold">Executive Program in Fintech Strategy</h4>
-                        <span className="hidden sm:inline text-muted-foreground">•</span>
-                        <p className="text-sm font-medium text-primary">2022</p>
-                      </div>
-                      <p className="text-base font-medium">Harvard Business School</p>
-                      <p className="text-muted-foreground">
-                        Intensive program focused on fintech business models, digital transformation, and strategic
-                        innovation.
                       </p>
                     </div>
                   </div>
