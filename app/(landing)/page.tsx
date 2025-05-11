@@ -65,11 +65,11 @@ export default function Home() {
           <div className="grid gap-8 lg:grid-cols-[1fr_400px] lg:gap-12 xl:grid-cols-[1fr_500px] items-center">
             <div className="flex flex-col justify-center space-y-6">
               <div className="inline-flex items-center px-3 py-1 text-sm font-medium text-primary bg-primary/10 rounded-full">
-              Empowering Fintech, Agri-Financing & Digital Marketplaces
+              Fintech Consultant & Business Advisor
               </div>
               <div className="space-y-4">
                 <h1 className="text-4xl font-bold tracking-tight sm:text-5xl xl:text-6xl/none">
-                  Navigating the Future of <span className="text-primary">Fintech</span>
+                Empowering Fintech, Agri-Financing &  <span className="text-primary">Digital Marketplaces</span>
                 </h1>
                 <p className="max-w-[600px] text-muted-foreground text-lg md:text-xl">
                 With over a decade of experience, I help innovators in financial services and agriculture unlock new revenue streams, meet complex regulations, and build marketplaces that connect producers, buyers, and investors at scale.
